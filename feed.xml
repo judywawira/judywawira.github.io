@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daktari Gichoya</title>
+    <description>Personal blog documenting my tales of radiology, informatics, travel, global health and being a geek.
+</description>
+    <link>http://gichoya.me/</link>
+    <atom:link href="http://gichoya.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Jan 2016 22:53:55 -0500</pubDate>
+    <lastBuildDate>Tue, 12 Jan 2016 22:53:55 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+  </channel>
+</rss>
