@@ -6,9 +6,434 @@
 </description>
     <link>http://gichoya.me/</link>
     <atom:link href="http://gichoya.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jan 2016 23:01:54 -0500</pubDate>
-    <lastBuildDate>Tue, 12 Jan 2016 23:01:54 -0500</lastBuildDate>
+    <pubDate>Tue, 12 Jan 2016 23:13:36 -0500</pubDate>
+    <lastBuildDate>Tue, 12 Jan 2016 23:13:36 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>OpenMRS WorldWide Summit 2015</title>
+        <description>&lt;p&gt;Nothing gives me more pleasure than to write a year-end blog from the OpenMRS worldwide summit in Singapore in Dec 2015. My story of involvement in OpenMRS came from my final years as a medical student in Eldoret, Kenya. I was already tinkering around technology and wondered how the same could be used to manage HIV patients. As a matter of fate, Ben Wolfe was visiting Eldoret and conducting some OpenMRS classes every Friday evening that I participated in. I have to admit being the only girl in tough java made me persist and learn OpenMRS. This was in the year 2007. A few of my close friends, notably Dr. Rose Kosgei who was already traveling for specialized studies in the US was telling her networks about me. She is the first person that explained to me about health informatics as a specialty.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://openmrs.org/&quot;&gt; OpenMRS &lt;/a&gt; is an open source medical records system in existence for a decade in use in over 42 countries.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openmrs_summit/openmrs_atlas.jpg&quot; alt=&quot;Atlas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Atlas of OpenMRS installations worldwide from atlas.openmrs.org&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;My passion has been in the global health space, and truly my mission has been to figure out how to improve health care by enabling doctors with technology. Thus when an opportunity came from the &lt;a href=&quot;http://www.shofco.org/project/johanna-justin-jinich-community-clinic&quot;&gt; Justin Jinich clinic &lt;/a&gt; in Kibera (the largest slum in Africa) to help them get started using OpenMRS for their ambulatory clinic, I was ecstatic! I met up with Peter Okoth, and instead of focusing on OpenMRS implementation; I chose to make this high school graduate conversant with the OpenMRS system for sustainability. This investment paid off for this implementation for an electronic medical records system, but I am most proud of the progress of Peter who took advantage of this opportunity and has managed the system for the last 7 years, has moved out of the slum and will be graduating with a degree in computer science. My biggest joy was to see his local village computer school that he founded to give others a similar opportunity, and this remains a big source of inspiration for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openmrs_summit/peter.jpg&quot; /&gt;
+&lt;i&gt; Blessing during opening of the Techy World Institute of Technology founded by Peter in Western Kenya&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://wiki.openmrs.org/display/RES/OpenMRS+Worldwide+Summit+2015&quot;&gt; OpenMRS worldwide summit &lt;/a&gt; was the first of the kind as a move from the previous implementers meetings last of which was held in Mozambique 2015. The summit is run in unconference style, whereby participants decide on the agenda of the meeting. I took the opportunity to talk to the members of the OpenMRS community, in a project where I am trying to document the stories of OpenMRS. OpenMRS was my way into global health, and I have remained centered and reminded of my purpose with each of the project or activity I have undertaken to try and solve global health problems in limited resource countries. Taking a historian approach, I recorded hours of stories of the people that make OpenMRS and will continue to do this over the next year.&lt;/p&gt;
+
+&lt;p&gt;These are their faces and short stories….&lt;/p&gt;
+
+&lt;h3 id=&quot;missionary-james&quot;&gt;Missionary James&lt;/h3&gt;
+
+&lt;p&gt;James (http://www.missionaryjames.com/) now working as a consultant for OpenMRS while he works full time as a missionary in Haiti remains a good example of the persistence of the OpenMRS community. We suffer from poor documentation like any open source project, but members like James do not believe
+in forking code to set up new projects away from the master, and thus are always looking for ways to give back to the community for the greater good. Finding ways to support such members is a new focus of the community, and hopefully we will see more activities to support the OpenMRS ecosystem that makes us sustainable.&lt;/p&gt;
+
+&lt;p&gt;Thanks James for showing me the camera tricks too …..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openmrs_summit/James.jpg&quot; /&gt;
+&lt;i&gt;  Photo of Judy and James walking around downtown Singapore  &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a picture of the skyline using the Art mode James taught me to use
+&lt;img src=&quot;/images/openmrs_summit/night.jpg&quot; /&gt;
+&lt;i&gt;  Night skyline of Singapore  &lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ellen-ball-and-mike-seaton-pihers&quot;&gt;Ellen Ball and Mike Seaton (PIHers)&lt;/h3&gt;
+
+&lt;p&gt;Always a pleasure to chat with Ellen and my 60 minutes with Ellen were amazing. I got to learn about her journey into OpenMRS, her work before OpenMRS on PACS in the early stages, and her view of the evolution of the community. I got to learn about how OpenMRS has advanced PIH (Partners in Health) work and vice versa, representing the symbiotic nature of the organizations that work with OpenMRS. As we walked through Little India village with Mike, we forged a plan to tackle the nightmare of reporting, and design it such that small implementers can use reporting in OpenMRS meaningfully to inform their clinical care. My hope is we can build more PIHs of the world within the OpenMRS ecosystem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openmrs_summit/Ellen.jpg&quot; /&gt;
+&lt;i&gt; Ellen and Jordan sneak into my picture &lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;joaquin&quot;&gt;Joaquin&lt;/h3&gt;
+
+&lt;p&gt;Joaquin who serves on the OpenMRS board is passionate about governance and would like to see an ecosystem of service providers helping accelerate the mission of OpenMRS that ‘information is care’. Over one of the best meals I had in Singapore, he shared his story from being a PHD student, to running his own startup using OpenMRS in Peru, to his current work to support analytics for health care in developing countries. Thinking of myself and efforts of building &lt;a href=&quot;http://www.softbrew.tech/&quot;&gt; Softbrew(TM) &lt;/a&gt; as a social company in the global health phenomena was inspiring and insightful and offered me a clarity that will shape my future involvement with OpenMRS.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openmrs_summit/Joaquin.jpg&quot; /&gt;
+&lt;i&gt; Joaquin and Judy at the OpenMRS 2015 summit &lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;barry-levine&quot;&gt;Barry Levine&lt;/h3&gt;
+
+&lt;p&gt;Even though my interview with Barry started off with ‘ I don’t know how much I have to say / I am not sure I have all answers to your questions’, I had a lovely time hearing Barry’s stories. Probably the most resonant comment was how he referred to people that have been to Kenya. He said “If you hear of anyone who has been to Kenya and see them talk about it , they have a  dreamy look”, something that I have related to many many times.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i&gt;&lt;b&gt;” If you hear of anyone who has been to Kenya and see them talk about it , they have a  dreamy look”&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;His motivation to join OpenMRS and come out of retirement was because ‘Good computing saves lives’. This was a reminder of how wonderful the work OpenMRS does is, and of the critical needs that demand our urgent attention. Barry reads newspapers and scouts the Internet for people that are just doing similar value work. And among these he
+tells them of OpenMRS, and this has taken him to East Africa and Asia to implement and support multiple OpenMRS implementations. He is using a similar model to support the Kenyan youth near Nairobi to teach them engineering skills by working on solar panels. His energy and OpenMRS activism will continue to remain an inspiration to me.
+ I look forward to be more involved in the projects his graduate students are working on to supplement the work we are doing for radiology on OpenMRS.&lt;/p&gt;
+
+&lt;h3 id=&quot;dr-adam-chee&quot;&gt;Dr Adam Chee&lt;/h3&gt;
+
+&lt;p&gt;One of the newest community members of OpenMRS talked to me about organized informatics. He is the chair for regional HL7, HIMSS Asia and AMIA regional group. He also runs a consulting company that provides pro bono informatics services to developing countries. His experience on social entrepreneurship was very informative.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openmrs_summit/Adam.jpg&quot; /&gt;
+    &lt;i&gt; Photo of  Adam and Downey , the OpenMRS community manager at the summit. Credit to Missionary James &lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;alvin-marcelo&quot;&gt;Alvin Marcelo&lt;/h3&gt;
+
+&lt;p&gt;The summit helped me meet up one of the most phenomenon ambassadors of OpenMRS from Philippines. Though a short encounter, It was great to hear of the work on OpenMRS in the Philippines and I look forward to chatting with Alvin over the next weeks for my 60 minutes of the OpenMRS story.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openmrs_summit/Alvin.jpg&quot; /&gt;
+&lt;i&gt; Judy and Alvin at the OpenMRS worldwide summit &lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fabian-project-buendia&quot;&gt;Fabian (Project Buendia)&lt;/h3&gt;
+
+&lt;p&gt;Missed the news on the &lt;a href=&quot;http://www.wired.com/2015/03/google-builds-new-tablet-fight-ebola/&quot;&gt; Google Ebola tablet &lt;/a&gt; used to manage patients during the Ebola outbreak in West Africa? Yep that’s powered by OpenMRS. My wow moment was to see the small computing devices that are running OpenMRS on a battery. To see such innovation around hardware and delivery of the systems was mind blowing. Hopefully I will be borrowing their ideas (allowed in open source) for the radiology information system we are building on top of OpenMRS.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openmrs_summit/edison.jpg&quot; /&gt;
+&lt;i&gt; The Edison chip (size of 2 coins) used to run the Ebola OpenMRS servers for project Buendia &lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bill-lober&quot;&gt;Bill Lober&lt;/h3&gt;
+
+&lt;p&gt;Dr. Lober,  a physician by training is a key driver behind the national EMR implementations using OpenMRS in places like Mozambique and Vietnam. His work as an academician has developed national standards for EMR evaluation and he remains a critical asset for OpenMRS. He wanted to be a part of the community from the beginning, even when he didn’t believe in the software we were building. He explained to me the model of &lt;b&gt; TRUST&lt;/b&gt; that has seen the OpenMRS community succeed over the last decade.&lt;/p&gt;
+
+&lt;h3 id=&quot;jonathan-teich&quot;&gt;Jonathan Teich&lt;/h3&gt;
+
+&lt;p&gt;Dr. Teich is the clinical architect of OpenMRS, and is definitely a man to watch out for. His work on clinical decision support is in early phases. Thanks to him, OpenMRS implementers now have allergy tracking. Having resisted to join in the global health bandwagon, he finally gave in 2 years ago, and wonders why didn’t he do this earlier. Thanks for your time Teich.&lt;/p&gt;
+
+&lt;h3 id=&quot;jan-flowers&quot;&gt;Jan Flowers&lt;/h3&gt;
+
+&lt;p&gt;When I grow up, I want to be Jan. :)&lt;/p&gt;
+
+&lt;p&gt;Inspiring stories of the national implementations and her work with Mozambique. Between Jan, Suranga, Jordan and I, we started to think of what it means to have diversity in OpenMRS. We had some sad statistics in terms of community and leadership diversity but I am sure we will be pushing for some change in this over the coming months.&lt;/p&gt;
+
+&lt;p&gt;I was honored when Jan asked me to work with her on the implementations and distributions of OpenMRS. To know that I am not the only one with an itch to get out there when I am not impacting the world was a pleasure Jan.&lt;/p&gt;
+
+&lt;h3 id=&quot;mayank-and-the-harshas&quot;&gt;Mayank and the Harshas’&lt;/h3&gt;
+
+&lt;p&gt;Apart from harassing Mayank to carry my laptop bag , I couldn’t help but draw in his enthusiasm. He reminded me of a younger Judy, not afraid to explore the world and enjoying technology. I have a feeling that our paths will cross very soon, and that the future is only brighter for this gentleman. Thanks for walking us through Little India and stealing the reserved table for us.&lt;/p&gt;
+
+&lt;p&gt;Keep up the enthusiasm!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/openmrs_summit/mayank.jpg&quot; /&gt;
+&lt;i&gt; From left to right : Harsha, Willa, Maurya, Wyclif, Harsha and Mayank (OpenMRS summit participants) walking towards the Christmas show in Singapore &lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;hamish-fraser&quot;&gt;Hamish Fraser&lt;/h3&gt;
+
+&lt;p&gt;Having never met up with one of the founding fathers, it was an honor to hear the story on the birth of OpenMRS. I will have to write that story for a longer blog post in the New Year 2016.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The stories of OpenMRS are just but beginning. I will have more chats over the next months with various community members. Jordan has offered to edit the audio and make a podcast in the summer of 2016 on the stories I will have recorded by then.
+I wish to thank OpenMRS for providing the travel grant that assisted my participation this year. Thank you for investing in me.&lt;/p&gt;
+
+&lt;p&gt;I hope some of these stories inspire you to make a little positive change in the world we live in.&lt;/p&gt;
+
+&lt;p&gt;Here are the some of the most inspiring words I heard this year from Tim Cook’s commencement speech at George Washington University in 2015&lt;sup&gt;1&lt;/sup&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i&gt;&lt;b&gt;“The sidelines are not where you want to live your life. The world needs you in the arena. There are problems that need to be solved. Injustices that need to be ended. People that are still being persecuted, diseases still in need of cure. No matter what you do next, the world needs your energy. Your passion. Your impatience with progress. Don’t shrink from risk. And tune out those critics and cynics. History rarely yields to one person, but think, and never forget, what happens when it does. That can be you. That should be you. That must be you.”&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Happy &amp;amp; blessed new year!&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;http://time.com/3882479/tim-cook-graduation-speech-gwu/&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Fri, 01 Jan 2016 00:38:42 -0500</pubDate>
+        <link>http://gichoya.me/openmrs/2016/01/01/openmrs-worldwide-summit-2015.html</link>
+        <guid isPermaLink="true">http://gichoya.me/openmrs/2016/01/01/openmrs-worldwide-summit-2015.html</guid>
+        
+        
+        <category>OpenMRS</category>
+        
+      </item>
+    
+      <item>
+        <title>#SIIM2015</title>
+        <description>&lt;p&gt;I had a wonderful time attending the &lt;a href=&quot;http://siim.org/?page=SIIM2015&quot;&gt; SIIM 2015  &lt;/a&gt; meeting in DC between 28th 
+to 30th May 2015 after a missed chance in 2014 when i was a PGY1 resident with no time off. Two weeks after attending the ACR conference, I was 
+moved by the ‘dorky ‘ feeling , the upbeat mood of the attendees who were not all gloomy about the bad future of radiology , but expectant to position 
+themselves for the future of radiology where informatics is core.&lt;/p&gt;
+
+&lt;p&gt;In what my friends from Babson would note as strategic thinking , I focussed on the hackathon , utilizing OpenMRS to consume FHIR images from the hackathon server 
+incorporated into the patient record (this won the bes tof the hackathon for the hackathon).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/siim2015/Hackathon.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some summary notes i took away from the meeting&lt;/p&gt;
+
+&lt;h4 id=&quot;interesting-research-areas&quot;&gt;Interesting research areas&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Operator dependent factors about imaging protocols including positioning, Tech QA  etc remain a key issue&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;epic-and-cdss-for-radiology&quot;&gt;Epic and CDSS for radiology&lt;/h4&gt;
+
+&lt;p&gt;Epic explained how protocols will work for CDSS for radiology - The rules will be enforced at the time of order , then modified later on what was actually done .&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 May 2015 13:49:27 -0400</pubDate>
+        <link>http://gichoya.me/2015/05/27/number-siim2015.html</link>
+        <guid isPermaLink="true">http://gichoya.me/2015/05/27/number-siim2015.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>#ACR2015 at a glance</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/posts/acr/ACR.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;introduction&quot;&gt;Introduction&lt;/h4&gt;
+
+&lt;p&gt;As a first time attendee, The RFS section was a wonderful time to get to learn about ACR, and the governance structure.&lt;/p&gt;
+
+&lt;p&gt;In summary, ACR is the advocacy body and is run pretty much close to government with local state chapters, ARRS is the classic academic type of conference
+and RSNA is the industry conference to learn new technologies.&lt;/p&gt;
+
+&lt;p&gt;The main themes of the RFS section included Imaging 3.0 (of course), Career development, Job update, business and economics of radiology and the annual debate on ‘ Is hospital employment good for radiologists’.&lt;/p&gt;
+
+&lt;p&gt;There were numerous Q &amp;amp; A sessions with the ACR leadership as well as a panel made of an academician, hospital employed radiologist and someone who started his own practice in Virginia to share on their experiences. 
+Of course the highlight of this trip was the Capitol Hill visit.&lt;/p&gt;
+
+&lt;p&gt;Here is a summary of my main takeaways from the pretty amazing sessions&lt;/p&gt;
+
+&lt;h4 id=&quot;what-does-imaging-30-mean-for-a-resident&quot;&gt;What does Imaging 3.0 mean for a resident?&lt;/h4&gt;
+
+&lt;p&gt;Focusing on what can do as a resident to stay involved; here is a suggestion of things to do&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Build rapport with other specialties eg joining hospital committees&lt;/li&gt;
+  &lt;li&gt;Provide referring physicians with evidence based studies — ACR appropriateness criteria&lt;/li&gt;
+  &lt;li&gt;Facilitate patient workflow&lt;/li&gt;
+  &lt;li&gt;Communicate effectively —Every call is a chance to brand&lt;/li&gt;
+  &lt;li&gt;Know the business&lt;/li&gt;
+  &lt;li&gt;Interact with patients&lt;/li&gt;
+  &lt;li&gt;Remember radiation safety for everyday practice - Image wisely and image gently&lt;/li&gt;
+  &lt;li&gt;Avoid unnecessary repeat examinations&lt;/li&gt;
+  &lt;li&gt;Integrate quality in daily practice - Turn this into a QA project&lt;/li&gt;
+  &lt;li&gt;Craft meaningful reports&lt;/li&gt;
+  &lt;li&gt;Communicate certainty and uncertainity&lt;/li&gt;
+  &lt;li&gt;Issue standardized actionable recommendations on incidental findings&lt;/li&gt;
+  &lt;li&gt;Do nothing&lt;/li&gt;
+  &lt;li&gt;Reduce delays in patient care - call referring doc&lt;/li&gt;
+  &lt;li&gt;Show and tell when physicians come to the reading room&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;acr-101-finance-talk----steps-to-guide-you-so-you-keep-your-money&quot;&gt;ACR 101 Finance talk  - steps to guide you so you keep your money&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Accept free money – Contribute to match employer contributions&lt;/li&gt;
+  &lt;li&gt;Clear credit card debt&lt;/li&gt;
+  &lt;li&gt;Emergency fund – usually around 3 months&lt;/li&gt;
+  &lt;li&gt;RothIRA – if you have some extra funds&lt;/li&gt;
+  &lt;li&gt;Maximise your  401k&lt;/li&gt;
+  &lt;li&gt;HSA if you have one&lt;/li&gt;
+  &lt;li&gt;Start on taxable account&lt;/li&gt;
+  &lt;li&gt;Pay down tax deductible debt&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;social-media-for-doctors&quot;&gt;Social media for doctors&lt;/h4&gt;
+
+&lt;p&gt;There are lots of social media (and with lots of twitter use at the conference. The best take away was that 
+patients will Google you , and so spending time filling some of the profiles like LinkedIn to controls the information out there 
+(actually this was not from the talk). In short when patient google you , let them see your own generated content&lt;/p&gt;
+
+&lt;h4 id=&quot;summary-of-opportunities-you-can-apply-for&quot;&gt;Summary of opportunities you can apply for&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Goldberg-Reeder Resident Travel Grant – USD 1500  provided for international travel for one month&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;http://www.acr.org/Membership/Volunteering/International-Outreach/Goldberg-Reeder-Grant&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;IF you would like to hang out at capitol Hill as you learn on advocacy , then the  Rutherford fellowship is for you. More information here&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;http://www.acr.org/Advocacy/Rutherford-Fellowship&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 May 2015 13:49:02 -0400</pubDate>
+        <link>http://gichoya.me/acr/acr%202015/radiology/imaging%203.0/2015/05/27/number-acr2015-at-a-glance.html</link>
+        <guid isPermaLink="true">http://gichoya.me/acr/acr%202015/radiology/imaging%203.0/2015/05/27/number-acr2015-at-a-glance.html</guid>
+        
+        
+        <category>ACR</category>
+        
+        <category>ACR 2015</category>
+        
+        <category>Radiology</category>
+        
+        <category>Imaging 3.0</category>
+        
+      </item>
+    
+      <item>
+        <title>2015 SOIC Young Alumni Award</title>
+        <description>&lt;p&gt;Yesterday evening I was awarded the &lt;b&gt; 2015 School of Informatics Young Alumni Award &lt;/b&gt; from IUPUI.
+The Young Alumni Award is given to a recent alumna (us), age 40 or under, in recognition of
+outstanding early career achievement that brings acclaim and recognition to the field of informatics
+and information science, and honor and distinction to Indiana University.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/soic/award.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is my short impromptu speech at the award ceremony&lt;/p&gt;
+
+&lt;iframe width=&quot;740&quot; height=&quot;450&quot; src=&quot;http://www.youtube.com/embed/vuG7CyevdlQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 17 Apr 2015 09:06:44 -0400</pubDate>
+        <link>http://gichoya.me/informatics/award/2015/04/17/2015-soic-young-alumni-award.html</link>
+        <guid isPermaLink="true">http://gichoya.me/informatics/award/2015/04/17/2015-soic-young-alumni-award.html</guid>
+        
+        
+        <category>informatics</category>
+        
+        <category>award</category>
+        
+      </item>
+    
+      <item>
+        <title>Setup Biometric for OpenMRS/Muzima</title>
+        <description>&lt;p&gt;&lt;b&gt;NAMING HISTORY&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;There are 42 tribes in Kenya , each with an interesting history of how children are named. The Luo community  for example
+names children based on the season and the time when the child was born. For example ‘-chieng’ refers to ‘noon time’, and 
+thus a boy born at noon would be named &lt;i&gt; Ochieng &lt;/i&gt; while a girl named &lt;i&gt;‘Achieng’&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Kikuyu community on the other hand inherits names, first born children are named after paternal grandparents then maternal grandparents 
+and later uncles and aunts. For example , i was named after my paternal grandmother as  &lt;i&gt; Wawira &lt;/i&gt; . Therefore i share 
+a name with all other cousins named after my maternal grandmother. In modern times, most children will have an English or 
+Christian name.&lt;/p&gt;
+
+&lt;p&gt;As we go through school and are required to enroll for national examinations , then we are asked for a surname and most 
+students will pick a third name from their father , and occasionally from mothers.&lt;/p&gt;
+
+&lt;p&gt;Thus my name ‘ Judy Wawira Gichoya ‘ represents a christian/English name, my maternal grandmothers name and a surname for 
+official registration for school and for documents. These names are not strictly used in this order , and vary in the context 
+of introduction - As a doctor i am ‘Dr. Gichoya’, and to friends abroad i am ‘Judy’ , and in my village in Embu as ‘Wawira’.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; SO WHAT? &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Modern patient matching systems were built for organised societies that identify with a first name , middle name and last name ;
+with specific national identifiers like a social security number or a universal identifier. These remain impractical for 
+developing countries like Kenya where name transposition is common , names are shared hence high rates of redundancy, without 
+unified national identifiers and accurate physical addresses.&lt;/p&gt;
+
+&lt;p&gt;As an informatician , I sought to work on improving the patient identification. Working with &lt;a href=&quot;http://openmrs.org/&quot;&gt;OpenMRS&lt;/a&gt; ,
+an open source medical records system deployed in over 42 countries , working with the Muzima, the mobile interface for OpenMRS.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; ENVIRONMENT SETUP &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Requirements &lt;/b&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;An OpenMRS installation / server - see detailed instructions &lt;a href=&quot;http://en.flossmanuals.net/openmrs-guide/&quot;&gt;here &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ensure you have Muzima modules installed including 
+ a. muzimafingerPrint Module
+ b. Muzima Registration Module
+ c. Muzima Forms Module
+ d. Muzima Consultation Module
+ e. Muzima Processor Module&lt;/li&gt;
+  &lt;li&gt;Setup the fingerprint SDK on your local installation : Download &lt;a href=&quot;https://drive.google.com/file/d/0B6mY_y3Aan1ySlpHUjg0UE12bkU/view?usp=sharing&quot;&gt;
+here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Update java settings as below 
+ a. Java console - Show console 
+ b. JNLP file/MIME Association - Always Allow 
+ c. Secure Execution Environment - Allow user to accept JNLP security requests&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;b&gt; Java settings &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/java.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/JNLP.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Add your site an exception to allow the browser to run the applet. use the Java settings page to 
+do this by clicking on  &lt;b&gt; Security  &amp;gt; Exception Site List &amp;gt; Edit Site List &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/Exception.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/sitelist.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Specific client installation for the Mac  &lt;/b&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Unzip the Neurotec_Biometric_5_0_SDK_Trial_2014-11-18.zip file&lt;/li&gt;
+  &lt;li&gt;Double click on “NeurotecBiometricTrial.pkg” it will install the SDK in your system&lt;/li&gt;
+  &lt;li&gt;Open the terminal and go to location /Neurotec_Biometric_5_0_SDK_Trial/Bin/MacOSX_universal/Activation&lt;/li&gt;
+  &lt;li&gt;Run the command “sudo ./run_pgd.sh start”   . This command must be run every time you are working using the application.&lt;/li&gt;
+  &lt;li&gt;Give your system password&lt;/li&gt;
+  &lt;li&gt;it should give below output message&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;```
+run_pgd.sh: starting pgd…
+run_pgd.sh: pgd run log (/Library/Logs/pgd.log):
+—————————————-
+2015-01-19 15:48:41 Starting PG (revision: 124780, mode: single, trial)
+2015-01-19 15:48:41 Darwin Vikass-MacBook-Pro.local 13.4.0 Darwin Kernel Version 13.4.0: Sun Aug 17 19:50:11 PDT 2014; root:xnu-2422.115.4~1/RELEASE_X86_64 x86_64
+2015-01-19 15:48:41 PG started (pid: 4490).
+—————————————-&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;After that reopen the fingerprint module.&lt;/p&gt;
+
+&lt;p&gt;Launch the fingerprint module from muzima page &lt;b&gt; Admin page &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;It shows the page below .Remember to &lt;b&gt; Always allow plugins &lt;/b&gt; to run the applet&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/popups.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on &lt;b&gt; Scan &lt;/b&gt; to search for a patient. If the patient is not found , then click on 
+&lt;b&gt; Register &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/fingerprint.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; TROUBLESHOOTING &lt;/b&gt;&lt;/p&gt;
+
+&lt;h5&gt; 1.  End java applet &lt;/h5&gt;
+
+&lt;p&gt;Go to &lt;b&gt; Preferences &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/javaprefs.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;End the &lt;b&gt; Hello World Applet &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/applet.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h5&gt; Error 2.  Cannot find license &lt;/h5&gt;
+
+&lt;p&gt;If you are using the trial version , it is not unusual to see the following error. This is related to your trial license
+ so click OK&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/error-biometrics.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If the Scan window appears as below , then you have not run the Activation screen&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/activation_error.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+Run the command &quot;sudo ./run_pgd.sh start&quot; 
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;=======++++======&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Happy testing ! Leave me feedback by creating an issue &lt;a href=&quot;&quot;&gt;here &lt;/a&gt; or tweeting me &lt;i&gt; @judywawira &lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 27 Jan 2015 04:07:34 -0500</pubDate>
+        <link>http://gichoya.me/openmrs/programming/biometrics/2015/01/27/setup-biometric-for-openmrs-slash-muzima.html</link>
+        <guid isPermaLink="true">http://gichoya.me/openmrs/programming/biometrics/2015/01/27/setup-biometric-for-openmrs-slash-muzima.html</guid>
+        
+        
+        <category>OpenMRS</category>
+        
+        <category>Programming</category>
+        
+        <category>Biometrics</category>
+        
+      </item>
     
   </channel>
 </rss>
