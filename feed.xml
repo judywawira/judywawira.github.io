@@ -6,9 +6,76 @@
 </description>
     <link>http://gichoya.me/</link>
     <atom:link href="http://gichoya.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 22:12:04 -0500</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 22:12:04 -0500</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2016 15:47:07 -0500</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2016 15:47:07 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Global Health Radiology , Malawi June 2016</title>
+        <description>&lt;p&gt;For the month of June 2016, I will spend time at Kamuzu hospital in Malawi working on global health radiology. I am getting excited for the upcoming trip despite a little twist settling on Malawi as my destination. I caught the global health bug again at the American College of Radiology (ACR) annual conference in May 2015 during the resident and fellow section and the informal evening bar when I met several staff that are teaching or reading cases from various hospitals in East Africa. I had an offer to try out a site in Uganda that fell through, but my program director Dr. Heitkamp had helped me work out a time to get a global health month. Adam, a 4th year(now neuroradiology fellow) from Emory University had suggested that I apply for the Goldberg Reeder Global Health Grant to get some money to cover at least the ticket costs.&lt;/p&gt;
+
+&lt;p&gt;I reached out to one of my former teachers and a good friend from Moi University where I attended medical school and he gladly wrote a letter of support for the grant. Three essays later, a letter from the program director my application was done and forgotten. When I received the notification that I was awarded the grant I was ecstatic. I was happy, as I knew the system in Eldoret well, was accustomed to the high altitude where the great Kenyan runners train and understood the workflow of the hospital systems and the practice of medicine. Unfortunately, Indiana University slapped Kenya with a travel ban that forbid any resident or medical student to travel to Kenya. This threw my plans into disarray, and I had to look for a new site to work with.&lt;/p&gt;
+
+&lt;p&gt;I reached out to a staff working in Tanzania to check if this would be a good fit. I thereafter checked out all RADAID sites and wrote to all the coordinators to find out what work they were doing. Fortunately Melissa Culp, RADAID coordinator for Malawi reached out to me, and a phone call later I knew this would be a great fit. I contacted a resident that had been to Malawi before to hear her opinions for what would be a good low hanging fruit for me to work on. What resonated with me were the high pediatric dosages in use during CT scanning, duplicate testing given loss of results, and Dr. Mzumara (the radiologist) noted a critical need for second opinions on the ground. Malawi is a country in the south of Africa with an estimated population of 16 million people. The country has 2 radiologists with no formal radiology residency-training program. Kamuzu Central Hospital is a tertiary hospital in Lilongwe, Malawi with an estimated 600-1000 beds and serving approximately 5 million people. Realizing I needed to work on one problem, I selected an informatics program to help do the plumbing work that can help other projects be delivered on this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/malawi/map.png&quot; alt=&quot;Malawi&quot; /&gt;
+&lt;i&gt;Map of Malawi &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been working on an open source radiology system solution to support a teleradiology system in developing countries.  Think of radiology systems as your iPhone or camera. The CT scan or Ultrasound machine is a special camera that obtains pictures from your body. These are stored in the machine and can be printed out on a film. Open source systems like DCM4Chee and Orthanc serve to provide special software to store your radiology pictures. When a radiologist looks at these images, they need to use special software to view these images like Osirix or Horos. The radiologist can then type or handwrite their report that’s then printed out to the doctor who ordered the test. The system now is that there is no organized way to store the images from the CT scan in Malawi, therefore the radiologist cannot compare the current study to the previous one. Moreover if the report is lost and the images are unavailable, the patient may receive repeat imaging, as previous information cannot be found. Therefore my primary goal is to organize the images from the CT Scan.&lt;/p&gt;
+
+&lt;p&gt;How we are doing it&lt;/p&gt;
+
+&lt;p&gt;We are using OpenMRS as the radiology information system that the patients name and what test was ordered. The system supports recording of allergy and simple laboratory values that help with deciding that a test is safe for a patient receiving contrast for a study. Once a study is completed, and for example we have a picture of your chest; we will save the images using Dcm4che. The radiologist can then view the images using Horos and enter the report in OpenMRS. Therefore the ordering doctors can view the report on their mobile devices, and all reports can be reprinted to avoid test repetition.&lt;/p&gt;
+
+&lt;p&gt;Inspired by the Buendia community, this is the hardware we want to use to run the management of images&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/malawi/edison.jpg&quot; alt=&quot;Edison&quot; /&gt;
+&lt;i&gt;Intel Edison computer that is the size of a credit card &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;It is a small computer (Intel Edison) with a dual-core 500 MHz Intel Atom processor, 1GB RAM, 4GB storage, Wi-Fi and Bluetooth. We love it because it is very portable but powerful. It is hardy and can sit well on a truck. It runs on USB, which is helpful because of the frequent power blackouts. My idea is to create a large community for radiology informatics to create jobs for young geeks in Malawi too. Adopting the SIIM curriculum, we will launch some tutorials that interested folks can learn with and sit the exam for formal certification if they are interested.&lt;/p&gt;
+
+&lt;p&gt;The rest of my time will be spent doing radiology stuff, specifically education of the technologists and the medical students, and doing procedures like thoracocentesis , paracentesis and ultrasound biopsies.&lt;/p&gt;
+
+&lt;h3 id=&quot;next-steps&quot;&gt;Next steps&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Set up the online learning to support the OpenRAD project (ok I just named it)&lt;/li&gt;
+  &lt;li&gt;Testing of the current software – contact me if interested.&lt;/li&gt;
+  &lt;li&gt;A bit of fundraising&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;say-thanks&quot;&gt;Say Thanks&lt;/h3&gt;
+&lt;p&gt;I would like to thank the following people / individuals helping this project become a reality
+1.	ACR Goldberg Reeder grant provides $1500 for travel
+2.	Nadi Kaonga who has offered a place for me to live when in Lilongwe with her grandfather
+3.	Whale imaging via Laurence Heron who have offered to lend me an Ultrasound machine for the month&lt;/p&gt;
+
+&lt;h3 id=&quot;what-we-need&quot;&gt;What we need&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;More Edison boards&lt;/li&gt;
+  &lt;li&gt;USB power banks&lt;/li&gt;
+  &lt;li&gt;Procedure equipment – catheters, gel&lt;/li&gt;
+  &lt;li&gt;Server space  / technical infrastructure&lt;/li&gt;
+  &lt;li&gt;Computer – specifically the new thunderbolt display&lt;/li&gt;
+  &lt;li&gt;Dictation software – We have tested with Nuance but are open to other possibilities.&lt;/li&gt;
+  &lt;li&gt;RADAID Malawi is fundraising to get more residents trained in Kenya.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Please reach out to me if you would like to learn more or get involved&lt;/p&gt;
+
+&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;encrypted&quot; value=&quot;-----BEGIN PKCS7-----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-----END PKCS7-----
+&quot; /&gt;
+&lt;input type=&quot;image&quot; src=&quot;https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot; /&gt;
+&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+&lt;/form&gt;
+</description>
+        <pubDate>Mon, 25 Jan 2016 15:10:54 -0500</pubDate>
+        <link>http://gichoya.me/2016/01/25/global-health-radiology-malawi-june-2016.html</link>
+        <guid isPermaLink="true">http://gichoya.me/2016/01/25/global-health-radiology-malawi-june-2016.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Year of Books 2015</title>
