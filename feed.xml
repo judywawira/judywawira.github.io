@@ -6,14 +6,15 @@
 </description>
     <link>http://gichoya.me/</link>
     <atom:link href="http://gichoya.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Feb 2016 22:17:47 -0500</pubDate>
-    <lastBuildDate>Sat, 27 Feb 2016 22:17:47 -0500</lastBuildDate>
+    <pubDate>Sat, 27 Feb 2016 22:25:12 -0500</pubDate>
+    <lastBuildDate>Sat, 27 Feb 2016 22:25:12 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>#INcapitolHack &amp; Open Data</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/IndyHack/Failure.png&quot; alt=&quot;Failed with gusto&quot; /&gt;
-&lt;strong&gt;&lt;em&gt;Failing with gusto&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/IndyHack/fail.jpg&quot; alt=&quot;Failed with gusto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Failing with gusto&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This week I decided to try and participate in hacking open data in Indianapolis, way before I realized how tired and exhausted the Interventional Radiology week would be. I have been working on the Data Science course from &lt;a href=&quot;https://www.coursera.org/specializations/jhu-data-science&quot;&gt;Coursera &lt;/a&gt; with the plan that I should become a proper data scientist. I had a biostatistics class in the Informatics master’s program but the professor felt the best way to learn was to calculate all the problems only on a calculator. While that is great for PHD students in biostatistics, this left me unable to analyze big datasets on my own using statistical packages, and in turn meant I could not play in the big data game. I have R skills that I have picked up with my projects, but I thought proper training would improve my analytic skills and make me critical to data centered operations. Moreover, I have been working on registry systems to collect /aggregate data and analyze it, hence superior data skills are no longer a luxury but mission critical.&lt;/p&gt;
 
@@ -22,8 +23,9 @@ an application. See competition details &lt;a href=&quot;http://www.indychamber.
 
 &lt;p&gt;I worked on an application based on &lt;strong&gt;&lt;em&gt;R studio, R and shiny&lt;/em&gt;&lt;/strong&gt; to develop an interactive dashboard that allows you to drill into the data and search by merchant, employee, cost paid, postal code and transaction IDs. See the hosted application here: &lt;a href=&quot;https://gichoya.shinyapps.io/HackApp/&quot;&gt; https://gichoya.shinyapps.io/HackApp/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/IndyHack/dashboard.png&quot; alt=&quot;Data dashboard&quot; /&gt;
-&lt;strong&gt;&lt;em&gt;Image showing the home page of the data dashboard&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/IndyHack/dash.jpg&quot; alt=&quot;Data dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Image showing the home page of the data dashboard&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Despite the effort, my application crashed during demonstration time, and couldn’t show it off. Turns out that R did not like my use of the keyword ‘data’ and hence refused to load the dashboard after pushing code to github. My partner in crime aka Nicole did mention that my lack of emphasis on the low value of graphs to represent data while presenting to the judges was shooting myself in the foot. In my defense , I have seen multiple open data projects and visualizations are great, but in truth are hardly understood by most people. There is more value in providing resources to answer a specific question, which is what I tried to solve by allowing users to drill in and filter data that answers a specific question.&lt;/p&gt;
 
