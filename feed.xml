@@ -6,8 +6,8 @@
 </description>
     <link>http://gichoya.me/</link>
     <atom:link href="http://gichoya.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Feb 2016 22:36:58 -0500</pubDate>
-    <lastBuildDate>Sat, 27 Feb 2016 22:36:58 -0500</lastBuildDate>
+    <pubDate>Sat, 27 Feb 2016 22:38:58 -0500</pubDate>
+    <lastBuildDate>Sat, 27 Feb 2016 22:38:58 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -23,7 +23,7 @@ an application. See competition details &lt;a href=&quot;http://www.indychamber.
 
 &lt;p&gt;I worked on an application based on &lt;strong&gt;&lt;em&gt;R studio, R and shiny&lt;/em&gt;&lt;/strong&gt; to develop an interactive dashboard that allows you to drill into the data and search by merchant, employee, cost paid, postal code and transaction IDs. See the hosted application here: &lt;a href=&quot;https://gichoya.shinyapps.io/HackApp/&quot;&gt; https://gichoya.shinyapps.io/HackApp/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/hack/dashboard.png&quot; alt=&quot;Data dashboard&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/dash.jpg&quot; alt=&quot;Data dashboard&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Image showing the home page of the data dashboard&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
