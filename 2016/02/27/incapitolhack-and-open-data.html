@@ -5,10 +5,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>#ACR2015 at a glance</title>
-  <meta name="description" content="">
+  <title>#INcapitolHack & Open Data</title>
+  <meta name="description" content="Failing with gusto">
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://gichoya.me/acr/acr%202015/radiology/imaging%203.0/2015/05/27/number-acr2015-at-a-glance.html">
+  <link rel="canonical" href="http://gichoya.me/2016/02/27/incapitolhack-and-open-data.html">
   <link rel="alternate" type="application/rss+xml" title="Daktari Gichoya" href="http://gichoya.me/feed.xml">
   <script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -67,81 +67,33 @@
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">#ACR2015 at a glance</h1>
-    <p class="post-meta"><time datetime="2015-05-27T13:49:02-04:00" itemprop="datePublished">May 27, 2015</time></p>
+    <h1 class="post-title" itemprop="name headline">#INcapitolHack & Open Data</h1>
+    <p class="post-meta"><time datetime="2016-02-27T21:27:36-05:00" itemprop="datePublished">Feb 27, 2016</time></p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p><img src="/images/posts/acr/ACR.jpg" /></p>
+    <p><img src="/images/IndyHack/Failure.png" alt="Failed with gusto" />
+<strong><em>Failing with gusto</em></strong></p>
 
-<h4 id="introduction">Introduction</h4>
+<p>This week I decided to try and participate in hacking open data in Indianapolis, way before I realized how tired and exhausted the Interventional Radiology week would be. I have been working on the Data Science course from <a href="https://www.coursera.org/specializations/jhu-data-science">Coursera </a> with the plan that I should become a proper data scientist. I had a biostatistics class in the Informatics master’s program but the professor felt the best way to learn was to calculate all the problems only on a calculator. While that is great for PHD students in biostatistics, this left me unable to analyze big datasets on my own using statistical packages, and in turn meant I could not play in the big data game. I have R skills that I have picked up with my projects, but I thought proper training would improve my analytic skills and make me critical to data centered operations. Moreover, I have been working on registry systems to collect /aggregate data and analyze it, hence superior data skills are no longer a luxury but mission critical.</p>
 
-<p>As a first time attendee, The RFS section was a wonderful time to get to learn about ACR, and the governance structure.</p>
+<p>By yesterday evening I had moved on from the idea of participating, having left the hospital at 8 am and just exhausted. I slept in, but around 11.30 AM checked the site and with Nicole’s encouragement, I decided to try and hack on the Indiana State Auditor data. This meant i had less than 6 hours to develop
+an application. See competition details <a href="http://www.indychamber.com/incapitolhack/">here </a>. The competition rules are very unfriendly, requiring giving up copyright for the applications developed, and a commitment to work on the application with no form of support for the next 9 days. Nonetheless I started to look at the available data set from the auditor office that provided all credit card transactions for the last year(2015-2016).</p>
 
-<p>In summary, ACR is the advocacy body and is run pretty much close to government with local state chapters, ARRS is the classic academic type of conference
-and RSNA is the industry conference to learn new technologies.</p>
+<p>I worked on an application based on <strong><em>R studio, R and shiny</em></strong> to develop an interactive dashboard that allows you to drill into the data and search by merchant, employee, cost paid, postal code and transaction IDs. See the hosted application here: <a href="https://gichoya.shinyapps.io/HackApp/"> https://gichoya.shinyapps.io/HackApp/</a></p>
 
-<p>The main themes of the RFS section included Imaging 3.0 (of course), Career development, Job update, business and economics of radiology and the annual debate on ‘ Is hospital employment good for radiologists’.</p>
+<p><img src="/images/IndyHack/dashboard.png" alt="Data dashboard" />
+<strong><em>Image showing the home page of the data dashboard</em></strong></p>
 
-<p>There were numerous Q &amp; A sessions with the ACR leadership as well as a panel made of an academician, hospital employed radiologist and someone who started his own practice in Virginia to share on their experiences. 
-Of course the highlight of this trip was the Capitol Hill visit.</p>
+<p>Despite the effort, my application crashed during demonstration time, and couldn’t show it off. Turns out that R did not like my use of the keyword ‘data’ and hence refused to load the dashboard after pushing code to github. My partner in crime aka Nicole did mention that my lack of emphasis on the low value of graphs to represent data while presenting to the judges was shooting myself in the foot. In my defense , I have seen multiple open data projects and visualizations are great, but in truth are hardly understood by most people. There is more value in providing resources to answer a specific question, which is what I tried to solve by allowing users to drill in and filter data that answers a specific question.</p>
 
-<p>Here is a summary of my main takeaways from the pretty amazing sessions</p>
+<p>Ladies and gentlemen, that’s how to fail a Hackathon or better yet ‘Fail with gusto’</p>
 
-<h4 id="what-does-imaging-30-mean-for-a-resident">What does Imaging 3.0 mean for a resident?</h4>
+<p>Code repo:</p>
 
-<p>Focusing on what can do as a resident to stay involved; here is a suggestion of things to do</p>
-
-<ol>
-  <li>Build rapport with other specialties eg joining hospital committees</li>
-  <li>Provide referring physicians with evidence based studies — ACR appropriateness criteria</li>
-  <li>Facilitate patient workflow</li>
-  <li>Communicate effectively —Every call is a chance to brand</li>
-  <li>Know the business</li>
-  <li>Interact with patients</li>
-  <li>Remember radiation safety for everyday practice - Image wisely and image gently</li>
-  <li>Avoid unnecessary repeat examinations</li>
-  <li>Integrate quality in daily practice - Turn this into a QA project</li>
-  <li>Craft meaningful reports</li>
-  <li>Communicate certainty and uncertainity</li>
-  <li>Issue standardized actionable recommendations on incidental findings</li>
-  <li>Do nothing</li>
-  <li>Reduce delays in patient care - call referring doc</li>
-  <li>Show and tell when physicians come to the reading room</li>
-</ol>
-
-<h4 id="acr-101-finance-talk----steps-to-guide-you-so-you-keep-your-money">ACR 101 Finance talk  - steps to guide you so you keep your money</h4>
-<ol>
-  <li>Accept free money – Contribute to match employer contributions</li>
-  <li>Clear credit card debt</li>
-  <li>Emergency fund – usually around 3 months</li>
-  <li>RothIRA – if you have some extra funds</li>
-  <li>Maximise your  401k</li>
-  <li>HSA if you have one</li>
-  <li>Start on taxable account</li>
-  <li>Pay down tax deductible debt</li>
-</ol>
-
-<h4 id="social-media-for-doctors">Social media for doctors</h4>
-
-<p>There are lots of social media (and with lots of twitter use at the conference. The best take away was that 
-patients will Google you , and so spending time filling some of the profiles like LinkedIn to controls the information out there 
-(actually this was not from the talk). In short when patient google you , let them see your own generated content</p>
-
-<h4 id="summary-of-opportunities-you-can-apply-for">Summary of opportunities you can apply for</h4>
-
-<ol>
-  <li>Goldberg-Reeder Resident Travel Grant – USD 1500  provided for international travel for one month</li>
-</ol>
-
-<p>http://www.acr.org/Membership/Volunteering/International-Outreach/Goldberg-Reeder-Grant</p>
-
-<ol>
-  <li>IF you would like to hang out at capitol Hill as you learn on advocacy , then the  Rutherford fellowship is for you. More information here</li>
-</ol>
-
-<p>http://www.acr.org/Advocacy/Rutherford-Fellowship</p>
-
+<p><code class="highlighter-rouge">
+https://github.com/judywawira/IndyHack
+</code></p>
 
   </div>
 
