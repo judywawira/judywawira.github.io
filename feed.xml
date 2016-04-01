@@ -6,8 +6,8 @@
 </description>
     <link>http://gichoya.me/</link>
     <atom:link href="http://gichoya.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Mar 2016 21:28:15 -0400</pubDate>
-    <lastBuildDate>Thu, 31 Mar 2016 21:28:15 -0400</lastBuildDate>
+    <pubDate>Thu, 31 Mar 2016 21:31:38 -0400</pubDate>
+    <lastBuildDate>Thu, 31 Mar 2016 21:31:38 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -19,7 +19,7 @@
 
 &lt;p&gt;My lovely hosts and friends Jonathan and Christina were kind enough to let me crash at their place.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/libreplanet/jonathan.jpg&quot; alt=&quot;Judy At LibrePlanet&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/libreplanet/jonathan.jpg&quot; alt=&quot;Judy and Jonathan&quot; /&gt;
 &lt;strong&gt;&lt;em&gt;Jonathan shows off his mad photography skills&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I had a little bit of that geeky excitement that you get when you have been cracking at code all night before the keynote from Snowden that was running late. I don’t know of any conference that folks would have been patiently waiting for the live hacking to make sure everything went smoothly without complaining of how important their time was. My weekend experience turned out to be a self reflection on what it means to have free software. Live attendees were chatting on IRC, and I remember seeing a comment that making a working streaming system solution like skype has been on the priority list for a long time. See full list here &lt;a href=&quot;http://www.fsf.org/campaigns/priority-projects/&quot;&gt; http://www.fsf.org/campaigns/priority-projects/ &lt;/a&gt;. I use skype for many conference calls. I am not tied to skype and would use any free software, but I realized that I use non free software because it works, and its great and in this way provides me the freedom to concentrate on the most important tasks of my day – studying, reading a paper, getting new business etc…&lt;/p&gt;
@@ -46,12 +46,12 @@
 
 &lt;p&gt;Back to my presentation, I highlighted ideas of how I see the OpenMRS ecosystem evolving to the future to keep &lt;strong&gt;&lt;em&gt;writing code and saving lives!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/libreplanet/judy.jpg&quot; alt=&quot;Judy At LibrePlanet&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/libreplanet/judy.jpg&quot; alt=&quot;Judy At Stata building&quot; /&gt;
 &lt;strong&gt;&lt;em&gt;Judy outside the famous MIT Stata building designed by Frank Gehry&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 Mar 2016 20:40:13 -0400</pubDate>
-        <link>http://gichoya.me/tech,/free_software/2016/03/31/libreplanet-2016.html</link>
-        <guid isPermaLink="true">http://gichoya.me/tech,/free_software/2016/03/31/libreplanet-2016.html</guid>
+        <link>http://gichoya.me/2016/03/31/libreplanet-2016.html</link>
+        <guid isPermaLink="true">http://gichoya.me/2016/03/31/libreplanet-2016.html</guid>
         
         <category>free</category>
         
@@ -59,10 +59,6 @@
         
         <category>LibrePlanet</category>
         
-        
-        <category>tech,</category>
-        
-        <category>Free_software</category>
         
       </item>
     
