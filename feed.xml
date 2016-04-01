@@ -6,20 +6,20 @@
 </description>
     <link>http://gichoya.me/</link>
     <atom:link href="http://gichoya.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Mar 2016 21:31:38 -0400</pubDate>
-    <lastBuildDate>Thu, 31 Mar 2016 21:31:38 -0400</lastBuildDate>
+    <pubDate>Thu, 31 Mar 2016 21:40:41 -0400</pubDate>
+    <lastBuildDate>Thu, 31 Mar 2016 21:40:41 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>#LibrePlanet 2016</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/libreplanet/libre.jpg&quot; alt=&quot;Judy At LibrePlanet&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/libreplanet/libre.JPG&quot; alt=&quot;Judy At LibrePlanet&quot; /&gt;
 &lt;strong&gt;&lt;em&gt;Judy presenting at LibrePlanet&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This month I attended &lt;a href=&quot;https://libreplanet.org/2016/&quot;&gt; LibrePlanet &lt;/a&gt; for the very first time to speak on how free medical record software using the example of &lt;a href=&quot;http://openmrs.org/&quot;&gt; OpenMRS &lt;/a&gt; allowed for development in health care delivery in resource limited countries. For a while, I pondered on what to speak about. I didn’t make my slides till the night before as I was unsure of the audience of the meeting, and what would make for a good talk.  Downey, the OpenMRS community manager brought LibrePlanet to my attention last year when I informed him that I was fed up of the academic conferences especially around ICT4D where PHD students described how they taught women in Africa to use mobile phones (will save the rant for another day). His description of LibrePlanet attendees as ‘passionate people who deeply care about free software’ was brief and did not make for an easy preparation for my talk.&lt;/p&gt;
 
 &lt;p&gt;My lovely hosts and friends Jonathan and Christina were kind enough to let me crash at their place.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/libreplanet/jonathan.jpg&quot; alt=&quot;Judy and Jonathan&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/libreplanet/jonathan.JPG&quot; alt=&quot;Judy and Jonathan&quot; /&gt;
 &lt;strong&gt;&lt;em&gt;Jonathan shows off his mad photography skills&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I had a little bit of that geeky excitement that you get when you have been cracking at code all night before the keynote from Snowden that was running late. I don’t know of any conference that folks would have been patiently waiting for the live hacking to make sure everything went smoothly without complaining of how important their time was. My weekend experience turned out to be a self reflection on what it means to have free software. Live attendees were chatting on IRC, and I remember seeing a comment that making a working streaming system solution like skype has been on the priority list for a long time. See full list here &lt;a href=&quot;http://www.fsf.org/campaigns/priority-projects/&quot;&gt; http://www.fsf.org/campaigns/priority-projects/ &lt;/a&gt;. I use skype for many conference calls. I am not tied to skype and would use any free software, but I realized that I use non free software because it works, and its great and in this way provides me the freedom to concentrate on the most important tasks of my day – studying, reading a paper, getting new business etc…&lt;/p&gt;
@@ -46,7 +46,7 @@
 
 &lt;p&gt;Back to my presentation, I highlighted ideas of how I see the OpenMRS ecosystem evolving to the future to keep &lt;strong&gt;&lt;em&gt;writing code and saving lives!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/libreplanet/judy.jpg&quot; alt=&quot;Judy At Stata building&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/libreplanet/judy.JPG&quot; alt=&quot;Judy At Stata building&quot; /&gt;
 &lt;strong&gt;&lt;em&gt;Judy outside the famous MIT Stata building designed by Frank Gehry&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 Mar 2016 20:40:13 -0400</pubDate>
