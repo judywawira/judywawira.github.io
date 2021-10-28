@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Judy Wawira Gichoya"
 title_separator          : "-"
 name                     : &name "Judy Wawira Gichoya"
-description              : &description "Postdoc in Political Science"
+description              : &description "Assistant Professor of Radiology & Imaging Sciences"
 url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jayrobwilliams/jayrobwilliams.github.io"
@@ -73,24 +73,24 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               :  # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
 author:
   name             : "Judy Wawira Gichoya"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  bio              : "Assistant Professor of Radiology & Imaging Sciences"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : 
+  googlescholar    : "https://scholar.google.com/citations?user=63WN_bEAAAAJ&hl=en&oi=ao"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
